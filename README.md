@@ -15,7 +15,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/CodeWithNouman99](https://github.com/CodeWithNouman99)
 
-- 💬 Ask me about **💡 About Me 🌱 Currently learning HTML, CSS, and JavaScript 💻 Interested in creating clean, responsive, and user-friendly websites 🎯 Goal: Become a skilled Full Stack Developer and work on real-world projects 📚 Learning through hands-on practice and online resources 📍 Based in Faisalabad, Pakistan**
+- 💬 Ask me about ** 🌱 Currently learning HTML, CSS, and JavaScript 💻 Interested in creating clean, responsive, and user-friendly websites 
+🎯 Goal: Become a skilled Full Stack Developer and work on real-world projects
+📚 Learning through hands-on practice and online resources
+📍 Based in Faisalabad, Pakistan**
 
 - 📫 How to reach me **mrnoumannomi7@gmail.com**
 
