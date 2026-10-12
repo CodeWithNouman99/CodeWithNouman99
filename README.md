@@ -1,7 +1,7 @@
 <p align="center"><img src="./header.svg" width="100%" alt="Nouman Aslam, MERN stack developer and AI automation builder"/></p>
 
 <p align="center">
-  <a href="https://portfolio-gilt-tau-48.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-14141C?style=flat-square&logo=vercel&logoColor=6EE7B7"/></a>
+  <a href="https://nouman-aslam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-14141C?style=flat-square&logo=vercel&logoColor=6EE7B7"/></a>
   <a href="https://www.linkedin.com/in/nouman-aslam-a9a3a2333"><img src="https://img.shields.io/badge/LinkedIn-14141C?style=flat-square&logo=linkedin&logoColor=6EE7B7"/></a>
   <a href="mailto:mrnoumannomi7@gmail.com"><img src="https://img.shields.io/badge/Email-14141C?style=flat-square&logo=gmail&logoColor=6EE7B7"/></a>
 </p>
