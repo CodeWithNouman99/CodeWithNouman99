@@ -4,6 +4,7 @@
   <a href="https://nouman-aslam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-14141C?style=flat-square&logo=vercel&logoColor=6EE7B7"/></a>
   <a href="https://www.linkedin.com/in/nouman-aslam-a9a3a2333"><img src="https://img.shields.io/badge/LinkedIn-14141C?style=flat-square&logo=linkedin&logoColor=6EE7B7"/></a>
   <a href="mailto:mrnoumannomi7@gmail.com"><img src="https://img.shields.io/badge/Email-14141C?style=flat-square&logo=gmail&logoColor=6EE7B7"/></a>
+  <img src="https://komarev.com/ghpvc/?username=CodeWithNouman99&style=flat-square&color=6EE7B7&label=Profile+views" alt="Profile views"/>
 </p>
 
 <p align="center"><img src="./stack.svg" width="100%" alt="Stack: React, Node.js, Express, MongoDB, Tailwind CSS, n8n, AI agents, RAG"/></p>
